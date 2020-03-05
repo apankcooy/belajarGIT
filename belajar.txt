@@ -1,2 +1,3 @@
 Tahapan belajar git Apank
-- Apang mau belajar langsung dengan menggunakan bash
+- Apank udah bisa bikin branch
+- Apank udah bisa merge dari branch
