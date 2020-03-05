@@ -1,3 +1,4 @@
 Tahapan belajar git Apank
-- Apang masih coba-coba
 - Apang coba lagi
+- Apank udah bisa bikin branch
+- Apank udah bisa merge dari branch
