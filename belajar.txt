@@ -1,2 +1,3 @@
 Tahapan belajar git Apank
-- Apang mau belajar langsung dengan menggunakan bash
+- Apang masih coba-coba
+- Apang coba lagi
